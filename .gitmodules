@@ -1,0 +1,3 @@
+[submodule "actions/poc-action-repo-action"]
+	path = actions/poc-action-repo-action
+	url = https://github.com/mbruno-kr/poc-action-repo-action.git
